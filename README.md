@@ -2,7 +2,7 @@
 
 > 🔧 **Advanced task manager for Windows. Monitor, control, and optimize your system.**
 
-![GUI](screen.png)
+![GUI](screen.jpg)
 
 ---
 
